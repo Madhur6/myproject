@@ -4,7 +4,7 @@ Basic app to demonstrate how to seperate your APIs from all your apps
 
 ## Credits
 
-- Amazing tutorial by [Dennis ivy]([https://youtu.be/i5JykvxUk_A?si=5AuJSeS0VjHsOSxl](https://youtu.be/cJveiktaOSQ?si=rhpNND7ZuloCE1uE))
+- Amazing tutorial by [Dennis ivy](https://youtu.be/cJveiktaOSQ?si=3XuSYhaKAULVvGz4)
 
 
 ## Installation
